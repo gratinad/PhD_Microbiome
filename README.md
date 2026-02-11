@@ -55,4 +55,4 @@ Warning: Please note that due to privacy, licensing, or ongoing publication rest
 **Chapter 6:** Mixed Planting PPC
 
 **Scope:** Data and files for Chapter 6 – Mixed planting, rhizobiome assembly, and susceptibility of *Pinus radiata* to *Fusarium circinatum*.
----
+<br>
