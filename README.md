@@ -15,20 +15,20 @@ Warning: Please note that due to privacy, licensing, or ongoing publication rest
 
 ├── README.md
 ├── Chapter_3_Phosphite_Rhizobiome/
-│   ├── 01_Data/
-│   ├── 02_Scripts/
+│   ├── Data/
+│   ├── Scripts/
 │   └── Supplementary_Material/
 ├── Chapter_4_Endophyte_Consortia/
-│   ├── 01_Data/
-│   ├── 02_Scripts/
+│   ├── Data/
+│   ├── Scripts/
 │   └── Supplementary_Material/
 ├── Chapter_5_Nursery_Consortia/
-│   ├── 01_Data/
-│   ├── 02_Scripts/
+│   ├── Data/
+│   ├── Scripts/
 │   └── Supplementary_Material/
 └── Chapter_6_Mixed_Planting_PPC/
-    ├── 01_Data/
-    ├── 02_Scripts/
+    ├── Data/
+    ├── Scripts/
     └── Supplementary_Material/
 ```
 
