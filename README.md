@@ -1,5 +1,7 @@
-README – Thesis Repository
+**README – Thesis Repository**
+
 Thesis Title:
+
 MICROBIOME MANIPULATION FOR SUSTAINABLE NURSERY PRODUCTION AND DISEASE MANAGEMENT IN *PINUS*
 
 This repository organizes the digital materials associated with Chapters 3–6 of the thesis. Each chapter has its own folder, with dedicated subfolders for data, scripts and supplementary material.
