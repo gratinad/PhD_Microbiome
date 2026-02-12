@@ -15,10 +15,13 @@ Warning: Please note that due to privacy, licensing, or ongoing publication rest
 
 ├── README.md
 ├── Chapter_3_Phosphite_Rhizobiome/
+│   │
 │   └── Supplementary_Material/
 ├── Chapter_4_Endophyte_Consortia/
+│   │
 │   └── Supplementary_Material/
 ├── Chapter_5_Nursery_Consortia/
+│   │
 │   └── Supplementary_Material/
 └── Chapter_6_Mixed_Planting_PPC/
     ├── Scripts/
@@ -37,7 +40,7 @@ Warning: Please note that due to privacy, licensing, or ongoing publication rest
 
 **Chapter 4:** Endophyte Consortia
 
-**Scope:** Data and files for Chapter 4 – Endophytic bacterial consortia from *Pinus pinea* and their effects on *P. radiata* germination and seedling quality.
+**Scope:** Data and files for Chapter 4 – Endophytic bacterial consortia from *Pinus pinea* and their effects on *Pinus radiata* germination and seedling quality.
 
 ---
 
