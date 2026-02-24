@@ -21,7 +21,6 @@ Warning: Please note that due to privacy, licensing, or ongoing publication rest
 ├── Chapter_5_Nursery_Consortia/
 │   └── Supplementary_Material/
 └── Chapter_6_Mixed_Planting_PPC/
-    ├── Scripts/
     └── Supplementary_Material/
 ```
 
